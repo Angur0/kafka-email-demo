@@ -21,10 +21,11 @@ If you are using KRaft mode (no ZooKeeper), run the following from your Kafka in
 
 ## 2. Project Setup
 
-Open a terminal in the project root (`c:\kafka-email-demo`).
+Open a terminal in the project root (`ex: c:\kafka-email-demo`).
 
 ### Create and Activate Virtual Environment
 
+**NOT REQUIRED KUNG INSTALLED NA YUNG PIP SA WINDOWS IF SO GO AHEAD SA NUMBER 4 **
 It is recommended to use a virtual environment to manage dependencies locally.
 
 **Windows (PowerShell):**
